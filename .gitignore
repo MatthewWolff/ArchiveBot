@@ -1,3 +1,7 @@
+api_key.py
+arc*
+.arc.bot
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
